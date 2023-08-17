@@ -1,0 +1,55 @@
+[
+{
+"id":1,
+"name":"Altay",
+"Forma Numarası":1,
+"Pozisyon":"Kaleci",
+"Img":"src/assets/Altay.png"
+},
+{
+    "id":2,
+    "name":"Szalai",
+    "Forma Numarası":2,
+    "Pozisyon":"Defans",
+    "Img":"src/assets/szalai.png"
+    
+},
+{
+    "id":3,
+    "name":"Peres",
+    "Forma Numarası":3,
+    "Pozisyon":"Defans",
+    "Img":"src/assets/luanperes.png"
+},
+{
+    "id":4,
+    "name":"Arda",
+    "Forma Numarası":10,
+    "Pozisyon":"Orta Saha",
+    "Img":"src/assets/arda.png"
+},
+{
+    "id":5,
+    "name":"Dzeko",
+    "Forma Numarası":9,
+    "Pozisyon":"Forvet",
+    "Img":"src/assets/dzeko.png"
+},
+{
+    "id":6,
+    "name":"Ferdi",
+    "Forma Numarası":29,
+    "Pozisyon":"Orta Saha",
+    "Img": "src/assets/ferdi.png"
+},
+{
+    "id":7,
+    "name":"Rossi",
+    "Forma Numarası":29,
+    "Pozisyon":"Orta Saha",
+    "Img":"src/assets/rossi.png"
+}
+
+
+    
+]

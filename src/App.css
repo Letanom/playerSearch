@@ -1,0 +1,56 @@
+.img{
+    width: 200px;
+    height: 250px;
+    object-fit: contain;
+}
+.data{
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 2px solid;
+    margin: 6px;
+    border-radius: 25px;
+    
+  
+}
+.inputContainer{
+    text-align: center; 
+    margin: 15px;
+   
+
+}
+.search-bar{
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+.head{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+    
+}
+body{
+
+    background-color: #FFFBF5
+}
+
+.dataContainer{
+  padding-left: 50px;
+  padding-right: 50px;
+  
+  
+}
+.info{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #03001C;
+    background-color: #16FF00;
+    border-radius:20px 50px 20px;
+    display:table;
+    margin:auto;
+    padding: 15px;
+        
+}
